@@ -3,8 +3,7 @@
 
 ## Overview
 
-### Industry Insight is a web application that provides users with valuable insights into job market trends across various industries. Leveraging Django and Django Rest Framework, this platform enables users to query and analyze job advertisements, gaining a deeper understanding of industry-specific job markets.
-
+### Industry Insight is a web application that provides users with valuable insights into job market trends across various industries. Leveraging Django and Django Rest Framework, this platform analyzes collects information about popular job advertisements, gaining a deeper understanding of industry-specific job markets and recommendations to user preferences or queries
 
 ## Features
 
